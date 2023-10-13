@@ -1,3 +1,5 @@
+//Exercice 2
+
 let Personnage = {
     name : 'Jhon',
     mentalHealth : 10
